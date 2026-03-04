@@ -90,7 +90,7 @@ elif menu == "Metodología servicio de minería de datos":
         st.markdown(f'<div class="method-card"><div class="method-title">{item["id"]}. {item["t"]}</div><p style="color: #ccd6f6;">{item["d"]}</p></div>', unsafe_allow_html=True)
 
 elif menu == "Curso desarrollo software con IA Gemini":
-    st.title("🚀 Curso de Ingeniería de Software con IA")
+    st.title("🚀 Curso de desarrollo de Software con IA")
     st.link_button("Solicitar este servicio: 3122204688 📱", ws_link)
     
     # Nuevos puntos del curso actualizados
